@@ -1,0 +1,16 @@
+{
+	"TOKEN": "ODUwNzk0NDUxMzIzNzE1NjU0.YLu6FA.r_IQUdnsNn_g0uLh7ibGkKcLlSk",
+	"PREFIX": "$",
+	"INTENTS": [
+		"GUILDS",
+		"GUILD_MESSAGES",
+		"GUILD_EMOJIS_AND_STICKERS",
+		"GUILD_MEMBERS",
+		"GUILD_MESSAGE_REACTIONS",
+		"GUILD_PRESENCES"
+	],
+	"DB KEY": "mongodb+srv://whiteDevil:suvanth@cluster0.1t2vy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"ADMINS": [
+		"788603786452664332"
+	]
+}
